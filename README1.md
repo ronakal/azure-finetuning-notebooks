@@ -47,7 +47,18 @@ Create an index for your data
 
 <img width="911" height="582" alt="image" src="https://github.com/user-attachments/assets/113dd54c-4592-4d46-af3b-12b927dc7976" />
 
+<img width="932" height="576" alt="image" src="https://github.com/user-attachments/assets/58f6e7b6-dbae-43d2-82ee-54661a4a4972" />
+
+
 In the Review and finish page, review the details and select Create vector index.
+
+Wait for the indexing process to be completed, which can take several minutes. The index creation operation consists of the following jobs:
+
+Crack, chunk, and embed the text tokens in your brochures data.
+
+Create the Azure AI Search index.
+
+Register the index asset.
 
 
 <img width="711" height="517" alt="image" src="https://github.com/user-attachments/assets/dccff994-8768-4763-a9a1-ca578115fd08" />
