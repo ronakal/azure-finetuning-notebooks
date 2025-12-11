@@ -85,13 +85,19 @@ click on binary->anlyzeResult: Record-> list-> to table
 <img width="993" height="527" alt="image" src="https://github.com/user-attachments/assets/798f44b3-500c-43a4-b5a9-fd1bbba52e22" />
 
 <img width="1005" height="520" alt="image" src="https://github.com/user-attachments/assets/3e6cd030-d026-45be-8939-5789269624f0" />
+
 expand Fields
+
 <img width="835" height="371" alt="image" src="https://github.com/user-attachments/assets/197112d9-c831-465f-bf8b-c4996ece0b6c" />
+
 expand each field and select the value 
+
 <img width="828" height="339" alt="image" src="https://github.com/user-attachments/assets/f4483a37-2ed5-4ffb-b7db-b1d9a0b4b966" />
+
 then click on close and apply 
 
 <img width="1767" height="818" alt="image" src="https://github.com/user-attachments/assets/875c9363-a35b-44d8-adc2-531174336658" />
+
 <img width="1706" height="552" alt="image" src="https://github.com/user-attachments/assets/c57f32e5-f32d-4a02-bed0-93414ae55963" />
 
 
