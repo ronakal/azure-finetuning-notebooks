@@ -33,6 +33,14 @@ Challenge 02: Extract Data Using the Prebuilt Invoice Model
 
 <img width="1220" height="561" alt="image" src="https://github.com/user-attachments/assets/537093c4-78a7-44e1-8318-c2eb2930e884" />
 
+Challenge 03: Validate Extracted Invoice Data
+
+<img width="1750" height="755" alt="image" src="https://github.com/user-attachments/assets/18d3d9c3-d21a-4ffa-b00c-b742bcf7b86d" />
+
+download the Json Files
+
+
+
 
 
 
