@@ -38,6 +38,32 @@ Challenge 03: Validate Extracted Invoice Data
 <img width="1750" height="755" alt="image" src="https://github.com/user-attachments/assets/18d3d9c3-d21a-4ffa-b00c-b742bcf7b86d" />
 download the Json Files
 
+Challenge 04: Store Extracted Results in Azure Storage
+Create a Storage Account for this lab:
+
+In the Azure Portal click Create a resource → Storage → Storage account.
+Select Subscription
+Select Resource Group: challenge-rg-19974821997482.
+Choose Region: uksouthuksouth.
+And enter a Name: storagefinanceidp19974821997482.
+And click Review + Create → Create.
+
+<img width="815" height="659" alt="image" src="https://github.com/user-attachments/assets/441c84a0-9e47-47c4-95f5-7c3c2acc4fb8" />
+Open the Storage Account created in your environment -> under Data Storage click on Containers-> add containers
+Name: invoices-output-19974821997482
+Public Access Level: (allow anonymous access)
+Return to Document Intelligence Studio and click Download Results to save the invoice JSON output.
+
+In your container, click Upload → select the downloaded JSON file → click Upload.
+
+Refresh the container list to verify the uploaded file appears.
+
+In the Storage Account blade, select Access keys under Security + networking.
+Copy the Storage account name and Key1 (connection string or key) and store them securely — you will need these to connect Power BI or programmatic clients.
+
+<img width="1370" height="695" alt="image" src="https://github.com/user-attachments/assets/14b22bd9-1cc9-482b-96fd-cfaccc7c2048" />
+
+
 
 
 
