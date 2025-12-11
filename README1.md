@@ -1,4 +1,4 @@
-Build and deploy a question and answer copilot in Azure AI Studio
+Build and deploy a question and answer copilot in Azure AI Studio  (not related to finetuning,just saving a training)
 
 
 On the home page, select + Create a resource.From the search bar, search for and select Azure AI Search.
